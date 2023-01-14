@@ -1,0 +1,11 @@
+{
+    "irc_server":"irc.libera.chat",
+    "irc_nickname":"d[10]Bot",
+    "irc_username":"IrcBotJS",
+    "irc_realname":"IrcBotJS",
+    "irc_server_port":"6667",
+    "sasl":false,
+    "irc_server_password":"",
+    "irc_channels":["#dev-br"],
+    "script_directory":"scripts"
+} 
